@@ -1,3 +1,3 @@
-# Fine-Tuning-LLM-with-LoRA-and-QLoRA
+# Fine-Tuning-LLMs
 
-This project focuses on efficiently fine-tuning Large Language Models using LoRA and Hugging Face's transformers library.
+This project focuses on efficiently fine-tuning Large Language Models.
